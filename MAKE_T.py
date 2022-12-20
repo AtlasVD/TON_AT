@@ -1,1 +1,1 @@
-print ('MAKE2')
+print ('MAKE')
